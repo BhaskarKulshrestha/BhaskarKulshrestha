@@ -1,4 +1,4 @@
-### Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="80" height="80">
+### Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="100">
 
 
 Here are some ideas to get you started:
