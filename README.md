@@ -1,4 +1,4 @@
-### Hi there ![hi](https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif) 
+### Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60">
 
 
 Here are some ideas to get you started:
