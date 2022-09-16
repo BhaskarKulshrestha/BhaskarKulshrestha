@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about MY SKILLS , WORKS AND PROJECT. 
 - 📫 How to reach me: <br>
-            Gmail : bhaskarkulshrestha03@gmail.com <br>
-            LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
+            &nbsp; &nbsp; Gmail : bhaskarkulshrestha03@gmail.com <br>
+            &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
