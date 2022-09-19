@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-- 🌟 I'm <strong>BHASKAR KULSHRESTHA.</strong>
+- 🌟 I'm <strong><i>BHASKAR KULSHRESTHA.</i></strong>
 - 🔭 I’m currently working on MY PROBLEM SOLVING AND DEVELOPMENT SKILLS.
 - 🌱 I’m currently learning C++ , PYTHON , FULL STACK WEB DVELOPMENT , MACHINE LEARNING. 
 - 👯 I’m looking to collaborate on VARIOUS PROJECTS AND BECOME A GOOD SOFTWARE DEVELOPER / WEB DEVELOPER IN A GOOD MNC.
