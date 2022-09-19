@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌟 I'm BHASKAR KULSHRESTHA.
 - 🔭 I’m currently working on MY PROBLEM SOLVING AND DEVELOPMENT SKILLS.
 - 🌱 I’m currently learning C++ , PYTHON , FULL STACK WEB DVELOPMENT , MACHINE LEARNING. 
-- 👯 I’m looking to collaborate on VARIOUS PROJECTS 
+- 👯 I’m looking to collaborate on VARIOUS PROJECTS AND BECOME A GOOD SOFTWARE DEVELOPER / WEB DEVELOPER IN A GOOD MNC.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about MY SKILLS , WORKS AND PROJECT. 
 - 📫 How to reach me: <br>
