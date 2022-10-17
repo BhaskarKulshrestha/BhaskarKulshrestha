@@ -19,4 +19,4 @@
             &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
 
 
-![](https://komarev.com/ghpvc/?username=Bhaskar Kulshrestha&color=green)
+![](https://komarev.com/ghpvc/?username=BhaskarKulshrestha&color=green)
