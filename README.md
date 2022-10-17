@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
 <!--  <br> -->
-   <h4 align="center">Web developer | Artificial Inteliigence | Machine Learning</h4>
+   <h4 align="center">🌟Web developer | Artificial Inteliigence | Machine Learning🌟</h4>
   
 </div>
 
@@ -19,3 +19,4 @@
             &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
 
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
