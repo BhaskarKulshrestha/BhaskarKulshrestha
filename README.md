@@ -23,5 +23,7 @@
             &nbsp; &nbsp; Gmail : bhaskarkulshrestha03@gmail.com <br>
             &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
 
+## Practicing Platform
+<a href="https://leetcode.com/Bhaskar_kulshrestha/" target="blank"><img align="center" src="![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" alt="Bhaskarkulshrestha" height="30" width="40" /></a>
 
 
