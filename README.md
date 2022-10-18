@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=BhaskarKulshrestha&color=brightgreen&style=for-the-badge)
 <div align="center">
-<h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="40" height="40"> I am Bhaskar Kulshrestha </h2>
+<h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
 <!--  <br> -->
    <h4 align="center">🌟Web developer | Artificial Inteliigence | Machine Learning🌟</h4>
   
