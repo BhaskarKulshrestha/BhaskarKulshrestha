@@ -17,9 +17,7 @@
 
 - 🌱 I’m currently learning **C++,Python,Full Stack Development,Machine Learning**. 
 
-- 👯 I’m looking to collaborate on VARIOUS PROJECTS AND BECOME A GOOD SOFTWARE DEVELOPER / WEB DEVELOPER IN A GOOD MNC.
-
-- 💬 Ask me about MY SKILLS , WORKS AND PROJECT. 
+- 👯 I’m looking to collaborate on various projects and become a good software developeer / web developer in a good MNC.
 
 - 📫 How to reach me: <br>
             &nbsp; &nbsp; Gmail : bhaskarkulshrestha03@gmail.com <br>
