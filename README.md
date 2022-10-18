@@ -1,6 +1,12 @@
 <img align="right" alt="Coding" width="100" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
 <img align="left" alt="Coding" width="100" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
 
+
+
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=BhaskarKulshrestha&color=brightgreen&style=for-the-badge)
 <div align="center">
 <h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
