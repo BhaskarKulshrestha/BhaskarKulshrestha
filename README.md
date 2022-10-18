@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="50" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
+<img align="right" alt="Coding" width="100" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
+<img align="left" alt="Coding" width="100" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
 
 ![](https://komarev.com/ghpvc/?username=BhaskarKulshrestha&color=brightgreen&style=for-the-badge)
 <div align="center">
