@@ -23,7 +23,7 @@
             &nbsp; &nbsp; Gmail : bhaskarkulshrestha03@gmail.com <br>
             &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
 
-
+## Practicing Platform
 
 
 <img align="up" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
