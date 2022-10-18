@@ -19,6 +19,8 @@
 
 - 👯 I’m looking to collaborate on various projects and become a good software developeer / web developer in a good MNC.
 
+- 💬 Ask me about **Data structures and algorithms,Web development,Machine Learning,Artificial Intelligence**. 
+
 - 📫 How to reach me: <br>
             &nbsp; &nbsp; Gmail : bhaskarkulshrestha03@gmail.com <br>
             &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/
