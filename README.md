@@ -29,3 +29,5 @@
 <a href="https://leetcode.com/Bhaskar_kulshrestha/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" alt="Bhaskarkulshrestha" height="40" width="60" /></a>
 
 
+<img align="right" alt="Coding" width="100" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
+<img align="down" alt="Coding" width="100" src="https://github.com/BhaskarKulshrestha/OIBGRIP/blob/main/Task2/images/coding_gif.gif">
