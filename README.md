@@ -31,7 +31,7 @@
 
 <!-- Statistics -->
 
-   ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=lowcontrast&show_icons=true&count_private=true)
+   ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=midcontrast&show_icons=true&count_private=true)
  
 
 
