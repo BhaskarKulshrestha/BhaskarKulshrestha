@@ -33,7 +33,7 @@
 
    ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=highcontrast&show_icons=true&count_private=true)
    <br>
-   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact,width="5000")
+   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact,width="5000")
     
 
 
