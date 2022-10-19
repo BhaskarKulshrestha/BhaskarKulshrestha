@@ -30,8 +30,10 @@
 
 
 <!-- Statistics -->
-README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=highcontrast&show_icons=true&count_private=true)
+<div align="center">
+   ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=highcontrast&show_icons=true&count_private=true)
+  </div>
+
 
 <img align="right" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
 <img align="down" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
