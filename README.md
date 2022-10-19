@@ -31,7 +31,7 @@
 
 <!-- Statistics -->
 
-   ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=dark&show_icons=true&count_private=true)
+   ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=light&show_icons=true&count_private=true)
    <br>
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=highcontrast)
 
