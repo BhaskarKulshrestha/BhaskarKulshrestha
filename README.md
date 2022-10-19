@@ -34,7 +34,7 @@
    ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=highcontrast&show_icons=true&count_private=true)
    <br>
    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact,width="5000")
- 
+    
 
 
 <img align="right" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
