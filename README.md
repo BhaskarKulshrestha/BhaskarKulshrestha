@@ -41,7 +41,7 @@
 
 - uses: Platane/snk@v2
   with:
-    github_user_name: ${{BhaskarKulshrestha}}
+    github_user_name: ${{github.BhaskarKulshrestha}}
 
     outputs: |
       dist/github-snake.svg
