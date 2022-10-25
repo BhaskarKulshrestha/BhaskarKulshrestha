@@ -54,7 +54,7 @@
    <br>
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=light)
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/BhaskarKulshrestha/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Snake Graph Game 
