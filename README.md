@@ -35,6 +35,8 @@
    ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=light&show_icons=true&count_private=true)
    <br>
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=light)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <img align="right" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
