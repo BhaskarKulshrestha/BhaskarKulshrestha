@@ -40,7 +40,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+steps:
+        name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.BhaskarKulshrestha }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 <img align="right" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
 <img align="down" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
