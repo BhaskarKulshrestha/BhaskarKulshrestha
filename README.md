@@ -39,7 +39,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Snake Grpah Game 
+## Snake Graph Game 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
 
 <img align="right" alt="Coding" width="100" src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-4.gif">
