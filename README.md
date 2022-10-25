@@ -39,7 +39,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-- uses: Platane/snk@v2
+uses: Platane/snk@v2
   with:
     github_user_name: ${{github.BhaskarKulshrestha}}
 
