@@ -75,6 +75,9 @@
    Most used Languges               |   Statical Analytics
    :-------------------------:  |   :-------------------------:
    ![bhaskar kulshrestha most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=light) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; ![satical data](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&show_icons=true&locale=en)
+   
+   
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![satical data](https://github-readme-streak-stats.herokuapp.com/?user=BhaskarKulshrestha&)
 
 
 <!-- <span><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&show_icons=true&locale=en" alt="BhaskarKulshrestha" /></p></span> -->
