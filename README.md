@@ -69,14 +69,14 @@
 
 <!-- Statistics -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&show_icons=true&locale=en" alt="priyanshu-mishra01" /></p>
+<span><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&show_icons=true&locale=en" alt="priyanshu-mishra01" /></p></span>
 
-<!--    ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=light&show_icons=true&count_private=true)
-   <br>
+<!--    ![Github stats](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&theme=light&show_icons=true&count_private=true) -->
+   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=light)
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/BhaskarKulshrestha/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Snake Graph Game 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
