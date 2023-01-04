@@ -37,7 +37,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/bhaskar-kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/1641530020aiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1641530020aiml" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
-<!-- <a href="https://www.leetcode.com/bhaskar_kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaskar_kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;-->
+ <a href="https://www.leetcode.com/bhaskar_kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaskar_kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/bhaskarkulshrestha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhaskarkulshrestha03" height="30" width="40" /></a>
 </p>
 
