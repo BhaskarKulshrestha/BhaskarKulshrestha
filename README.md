@@ -80,6 +80,8 @@
    ![bhaskar kulshrestha most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=light) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; ![satical data](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&show_icons=true&locale=en)
  -->
    
+   
+   
 Most used Languges               |   Statical Analytics
    :-------------------------:  |   :-------------------------:
    ![bhaskar kulshrestha most use languages](https://github-readme-stats.vercel.app/api/top-langs?username=BhaskarKulshrestha&show_icons=true&locale=en&layout=compact) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; ![satical data](https://github-readme-stats.vercel.app/api?username=BhaskarKulshrestha&show_icons=true&locale=en)
