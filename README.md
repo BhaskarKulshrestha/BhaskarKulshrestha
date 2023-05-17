@@ -5,6 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=BhaskarKulshrestha&color=brightgreen&style=for-the-badge)
 <div align="center">
+   
+![](https://visitcount.itsvg.in/api?id=BhaskarKulshrestha&icon=0&color=0)
+
 <h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
 <!--  <br> -->
    <h4 align="center">🌟Web developer | Artificial Inteliigence | Machine Learning | Commpetitve Programming🌟</h4>
@@ -100,8 +103,11 @@ Most used Languges               |   Statical Analytics
 [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BhaskarKulshrestha&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Snake Graph Game 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
