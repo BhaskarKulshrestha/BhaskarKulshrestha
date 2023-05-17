@@ -106,11 +106,16 @@ Most used Languges               |   Statical Analytics
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BhaskarKulshrestha&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+<div align="center">
+  <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+</div>
 
 ## Snake Graph Game 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
 
+
+
+
 <img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif">
 <img align="down" alt="Coding" width="100" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif">
+
