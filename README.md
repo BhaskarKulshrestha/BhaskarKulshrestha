@@ -107,7 +107,7 @@ Most used Languges               |   Statical Analytics
 ![](https://github-contributor-stats.vercel.app/api?username=BhaskarKulshrestha&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ## Snake Graph Game 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
