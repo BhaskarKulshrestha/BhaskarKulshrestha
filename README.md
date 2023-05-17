@@ -96,8 +96,15 @@ Most used Languges               |   Statical Analytics
    
 <!--   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarKulshrestha&layout=compact&theme=light) -->
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/BhaskarKulshrestha/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha)](https://github.com/BhaskarKulshrestha/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha" alt="trophy" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=BhaskarKulshrestha&column=3&title=Stars,Followers" alt="trophy" />
+</div>
+
+
 
 ## Snake Graph Game 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
