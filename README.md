@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=BhaskarKulshrestha&color=brightgreen&style=for-the-badge)
 <div align="center">
    
-![](https://visitcount.itsvg.in/api?id=BhaskarKulshrestha&icon=0&color=0)
+<!-- ![](https://visitcount.itsvg.in/api?id=BhaskarKulshrestha&icon=0&color=0) -->
 
 <h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
 <!--  <br> -->
