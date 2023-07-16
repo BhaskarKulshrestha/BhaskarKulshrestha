@@ -114,6 +114,8 @@ Most used Languges               |   Statical Analytics
 
 ![snake gif](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/blob/output/github-contribution-grid-snake.gif)
 
+[![Generate Snake](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/actions/workflows/main.yml/badge.svg)](https://github.com/BhaskarKulshrestha/BhaskarKulshrestha/actions/workflows/main.yml)
+
 
 
 <img align="right" alt="Coding" width="80" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif">
