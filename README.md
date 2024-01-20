@@ -10,7 +10,7 @@
 
 <h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
 <!--  <br> -->
-   <h4 align="center">🌟Web developer | Artificial Inteliigence | Machine Learning | Commpetitve Programming🌟</h4>
+   <h4 align="center">🌟Full Satck Web developer | Artificial Inteliigence | Machine Learning | Commpetitve Programming🌟</h4>
   
 </div>
 
@@ -38,9 +38,15 @@
 <!--Connect with me-->
 
 ## Connect with me:
-
 <p align="center">
-<a href="https://linkedin.com/in/bhaskar-kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+   <a href="https://linkedin.com/in/bhaskar-kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+   <a href="https://bhaskarkulshresthaportfolio.onrender.com/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/wireframes-7/100/Profile-512.png" alt="bhaskar-kulshrestha Posrtfolio" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+   <a href="mailto:bhaskarkulshrestha03@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+
+## Coding Profiles:
+<p align="center">
 <a href="https://www.hackerrank.com/1641530020aiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1641530020aiml" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://www.leetcode.com/bhaskar_kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaskar_kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/bhaskarkulshrestha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhaskarkulshrestha03" height="30" width="40" /></a>
