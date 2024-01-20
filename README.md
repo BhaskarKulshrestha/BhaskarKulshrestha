@@ -31,7 +31,7 @@
 - 📫 How to reach me: <br>
             &nbsp; &nbsp; Gmail : bhaskarkulshrestha03@gmail.com <br>
             &nbsp; &nbsp;LinkedIn : https://www.linkedin.com/in/bhaskar-kulshrestha/ <br>
-            &nbsp; &nbsp;Website : https://bhaskarkulshresthaportfolio.netlify.app/
+            &nbsp; &nbsp;Website : https://bhaskarkulshresthaportfolio.onrender.com
 
 <br>
 
