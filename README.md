@@ -45,7 +45,6 @@
    <a href="mailto:bhaskarkulshrestha03@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-
 ## Coding Profiles:
 <p align="center">
 <a href="https://www.hackerrank.com/1641530020aiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1641530020aiml" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
