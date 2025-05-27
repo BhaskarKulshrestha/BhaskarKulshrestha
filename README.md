@@ -41,7 +41,7 @@
 ## Connect with me:
 <p align="center">
    <a href="https://linkedin.com/in/bhaskar-kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-kulshrestha" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
-   <a href="https://bhaskarkulshresthaportfolio.onrender.com/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/wireframes-7/100/Profile-512.png" alt="bhaskar-kulshrestha Posrtfolio" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+   <a href="https://bhaskar-kulshrestha-portfolio.vercel.app/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/wireframes-7/100/Profile-512.png" alt="bhaskar-kulshrestha Posrtfolio" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
    <a href="mailto:bhaskarkulshrestha03@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
