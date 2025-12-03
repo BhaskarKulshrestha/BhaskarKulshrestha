@@ -10,7 +10,7 @@
 
 <h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Bhaskar Kulshrestha </h2>
 <!--  <br> -->
-   <h4 align="center">🌟Full Satck Web developer | Artificial Inteliigence | Machine Learning | Commpetitve Programming🌟</h4>
+   <h4 align="center">🌟Full Stack Web developer | Artificial Intelligence | Machine Learning | Competitive Programming🌟</h4>
   
 </div>
 
