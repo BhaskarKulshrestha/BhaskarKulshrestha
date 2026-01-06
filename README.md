@@ -119,6 +119,10 @@ Most used Languges               |   Statical Analytics
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BhaskarKulshrestha&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
+### Leetcode Profile
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bhaskar_kulshrestha?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
+
 <div align="center">
   <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 </div>
